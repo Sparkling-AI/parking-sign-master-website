@@ -146,7 +146,6 @@ nav {
 /* CTA Buttons */
 .cta-buttons {
     display: flex;
-    gap: 1rem;
     justify-content: center;
     margin-top: 2rem;
 }
@@ -162,12 +161,12 @@ nav {
 .btn-primary {
     background-color: white;
     color: #4F46E5;
+    min-width: 200px;
+    text-align: center;
 }
 
 .btn-secondary {
-    background-color: rgba(255, 255, 255, 0.1);
-    color: white;
-    border: 2px solid white;
+    display: none; /* Hide Google Play button */
 }
 
 .btn:hover {
