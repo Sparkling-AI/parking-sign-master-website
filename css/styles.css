@@ -87,7 +87,7 @@ nav {
     margin: 0 auto;
     display: flex;
     align-items: center;
-    gap: 4rem;
+    gap: 3rem;
 }
 
 .hero-text {
@@ -96,7 +96,7 @@ nav {
 }
 
 .hero-image {
-    flex: 0 0 300px;
+    flex: 0 0 280px;
 }
 
 .app-screenshot {
@@ -126,9 +126,9 @@ nav {
 }
 
 .app-icon {
-    width: 80px;
-    height: 80px;
-    border-radius: 16px;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
 }
 
@@ -286,6 +286,12 @@ nav {
     font-weight: 700;
 }
 
+.download-section .section-subtitle {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin-bottom: 3rem;
+}
+
 .download-features {
     display: flex;
     justify-content: center;
@@ -389,7 +395,7 @@ footer {
     }
 
     .hero-image {
-        flex: 0 0 250px;
+        flex: 0 0 220px;
     }
 
     .hero h1 {
@@ -403,6 +409,12 @@ footer {
     .hero-features {
         flex-direction: column;
         gap: 1rem;
+    }
+
+    .app-icon {
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
     }
 
     .feature-grid {
