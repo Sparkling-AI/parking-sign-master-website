@@ -1,253 +1,94 @@
-# Swedish Parking Sign "Avgift" with Time Range: What It Means & How to Park
+# Swedish Parking Sign "Avgift" with Time Range: Meaning, Examples, and How to Park
 
-*The most common parking sign in Sweden, explained plate by plate.*
+*Series #1 in our Swedish parking sign family guides.*
+
+This post explains one of the most common parking sign patterns in Sweden: **blue P + Avgift + time range + zone/taxa text**.
 
 ---
 
 ## Quick Answer
 
-**Can I park here?** Yes, but you must **pay a fee** during the hours shown.
-
-**How long can I park?** Typically **24 hours maximum** on weekdays, unlimited on weekends (unless otherwise stated).
-
-**When do I pay?** During the times shown on the sign (e.g., 7–19 means 7 AM to 7 PM on weekdays).
+- **Can I park here?** Usually yes, because of the blue **P**.
+- **Do I need to pay?** Yes, during the listed paid hours.
+- **What about outside the shown time range?** Usually free, unless another plate says otherwise.
 
 ---
 
-## What This Sign Looks Like
+## How to Read This Sign Family
 
-This is the **#1 most common parking sign pattern** in Swedish cities. You'll see:
+Read signs **top to bottom**. Each lower plate adds or narrows the rule.
 
-```
-┌─────────────┐
-│      P      │  ← Blue parking symbol
-├─────────────┤
-│   Avgift    │  ← "Fee" (you must pay)
-│    7-19     │  ← Pay during these hours
-│  (11-17)    │  ← Saturday hours (in parentheses)
-│   Taxa 3    │  ← Rate zone (higher = more expensive)
-└─────────────┘
-```
+1. **Top plate**: permission/prohibition symbol.
+2. **Middle plate(s)**: paid hours and zone/taxa information.
+3. **Lower plate(s)**: restrictions or exceptions (marked spaces, street cleaning windows, loading use, etc.).
 
-**Key elements:**
-- 🅿️ **P symbol** (blue) = Parking allowed
-- 💰 **"Avgift"** = Fee required
-- ⏰ **Time range** = When you must pay
-- 🏷️ **Taxa/Zone** = Pricing tier
+**Important combination rule:** if **Avgift** and a time range appear on the same plate, they form one combined condition, so the fee applies only inside that shown time range.
 
----
+### Common Text Meanings
 
-## How to Read This Sign (Plate by Plate)
-
-**The golden rule:** Read from **top to bottom**. Each plate adds a rule.
-
-### Plate 1: The Parking Symbol
-
-```
-[🪪 Symbol: parking]
-```
-
-**What it means:** Parking is permitted at this location. This is your base permission — but conditions apply (see plates below).
+| Text | Typical meaning |
+|------|-----------------|
+| **Avgift** | Fee required during listed hours |
+| **7-19** | Weekdays (Mon-Fri), except public holidays and the day before public holidays |
+| **(11-17)** | Saturday or weekdays before public holidays |
+| **7-19** (red text) | Sundays or public holidays |
+| **Taxa 1/2/3** | Rate tier |
 
 ---
 
-### Plate 2: The Fee and Time Plate
+## Real Street Examples
 
-```
-[📝 Text: Avgift | 7-19 | (11-17) | Taxa 3]
-```
+### Example 1: Classic Paid Parking
 
-**Breakdown:**
+- Original photo: `../images/blog-1/example-1-orig-4e627f6d6462d912c92a.jpg`
 
-| Text | Meaning |
-|------|---------|
-| **Avgift** | You must pay to park here |
-| **7-19** | Pay from 7 AM – 7 PM on **weekdays** (Mon–Fri) |
-| **(11-17)** | Pay from 11 AM – 5 PM on **Saturdays** (parentheses = Saturday) |
-| **Taxa 3** | Rate tier 3 (higher-cost zone) |
+**Interpretation:** Paid parking in the Green Zone (*Grön zon*, usually a tariff zone). **From 09:00 to 18:00 on weekdays** (excluding Saturdays, Sundays, public holidays, and weekdays before public holidays), you must pay to park here. **Parking is free outside this time range**. The plate below indicates the mobile payment apps drivers can use. In the app, select the *områdeskod* (area code) `44308`.
 
-**What it means:**
-- **Weekdays 7–19:** Pay to park
-- **Saturday 11–17:** Pay to park
-- **All other times:** Free parking (evenings, nights, Sundays)
+### Example 2: Paid Parking + Marked Spaces + Day Restriction
 
----
+- Original photo: `../images/blog-1/example-2-orig-639e11233.jpg`
 
-### Plate 3: Additional Rules (If Present)
+**Interpretation:** A paid parking rule applies during the listed hours. On normal weekdays (Monday-Friday, excluding public holidays and the weekday before a public holiday), you must pay between 07:00 and 19:00. On Saturdays, and on weekdays that are the day before a public holiday, the paid hours are 11:00-17:00. The tariff is **Taxa 3**. You may only park in marked parking spaces; parking outside marked bays is not allowed. The no-parking rule applies on Thursday from 00:00 to 06:00 (this also applies on public holidays). Outside the time ranges above, parking is free.
 
-Common additions:
+## Fast Parking Checklist
 
-- **"Markerade platser"** = Marked spaces only (park within the lines)
-- **"Boende"** = Resident permit zone (visitors still pay)
-- **Zone code** = Enter this code in your parking app (e.g., MOBILL, EasyPark, Parkster)
+1. Identify top symbol (parking allowed vs prohibition).
+2. Read every lower plate in order.
+3. Map plain hours to weekdays, parentheses to Saturday.
+4. Watch for exception plates (cleaning windows, loading restrictions, marked spaces).
+5. Enter zone code and confirm payment details in app.
 
 ---
 
-## Real Examples from Swedish Streets
+## FAQ
 
-### Example 1: Classic Paid Parking (Green Zone)
+### What does "Avgift" mean?
+It means parking is paid during listed hours.
 
-**Document ID:** `4e627f6d6462d912c92ad15f71b66138f254391b92a5f9d902a50d0594d303a6`
+### What does 7-19 mean?
+Commonly weekday paid hours, 07:00 to 19:00.
 
-```
-Plate 1: [🪪 Symbol: parking]
-Plate 2: [📝 Avgift | 9-18 | Grön zon]
-Plate 3: [📝 Områdeskod: 44308 | MOBILL | Parkster]
-```
+### What does <span style="color:#b91c1c;">7-19</span> in red text mean?
+In this sign pattern, red-text time ranges typically apply on Sundays and public holidays.
 
-**Interpretation:**
-- Pay to park weekdays 9 AM – 6 PM
-- Green Zone pricing (typically lower rate)
-- Use zone code **44308** in parking apps (MOBILL, Parkster)
+### What does (11-17) mean?
+Usually Saturday paid hours.
 
----
-
-### Example 2: Paid Parking with Day-Specific Restriction
-
-**Document ID:** `639e1123370b966c18e4d9e6a69d8dcd0d1c29a86a1e0fef6ab3f6595a1e4ae9`
-
-```
-Plate 1: [🪪 Symbol: parking]
-Plate 2: [📝 Avgift | 7-19 | (11-17) | Taxa 3]
-Plate 3: [📝 Markerade platser]
-Plate 4: [🪪 Symbol: no parking] [📝 Torsd | 0-6]
-```
-
-**Interpretation:**
-- Pay to park weekdays 7–19, Saturday 11–17
-- Rate tier 3 (higher cost)
-- Park in marked spaces only
-- **No parking Thursday 0–6 AM** (street cleaning)
+### What is Taxa 3?
+Taxa is the municipal rate tier.
 
 ---
 
-### Example 3: Paid Parking with Loading Zone
+## About the App
 
-**Document ID:** `ca92476c00110f1c37615ebe665da292869311d12c6dda71e51f1f66becca007`
+**Parking Sign Master** helps drivers interpret Swedish parking signs from a photo.
 
-```
-Plate 1: [📝 Last-plats] [🪪 Symbol: no stopping]
-Plate 2: [📝 7-19]
-Plate 3: [📝 0-12 m]
-Plate 4: [🪪 Symbol: parking] [📝 Övrig tid | Avgift | Taxa 3]
-```
+- Understand stacked plate logic faster
+- Get clear parking answers
+- Catch restrictions that are easy to miss
 
-**Interpretation:**
-- Loading zone 7–19 for vehicles up to 12 meters
-- **"Övrig tid"** (other times) = Paid parking outside loading hours
-- Rate tier 3
+Download: [parkingsignmaster.com](https://parkingsignmaster.com)
 
 ---
 
-## Common Variations Within This Group
-
-| Variation | What Changes |
-|-----------|--------------|
-| **Different times** | 8-17, 9-18, 7-22, etc. |
-| **Saturday hours** | Shown in parentheses, e.g., (9-15), (11-17) |
-| **Zone/Rate** | Taxa 1/2/3, Grön zon, Blå zon, Zon E, etc. |
-| **Day restriction** | No parking specific day + time (e.g., "Torsd 0-6") |
-| **Marked spaces** | "Markerade platser" = park between lines |
-
----
-
-## Time Notation Quick Reference
-
-| Format | Meaning |
-|--------|---------|
-| **7-19** | Weekdays 7 AM – 7 PM |
-| **(11-17)** | Saturday 11 AM – 5 PM (in parentheses) |
-| **Red text** | Sundays and public holidays |
-| **No time shown** | 24 hours / always applies |
-| **"Övrig tid"** | All other times not specified |
-
----
-
-## FAQ: Swedish Paid Parking Signs
-
-### What does "Avgift" mean on a Swedish parking sign?
-
-**"Avgift"** means "fee" or "charge." When you see this, you **must pay** to park during the hours shown. Use a parking app (MOBILL, EasyPark, Parkster) or a parking machine.
-
-### What do the numbers mean (7-19, 9-18)?
-
-These are **time ranges** when payment is required:
-- **7-19** = Pay from 7 AM to 7 PM on weekdays
-- **9-18** = Pay from 9 AM to 6 PM on weekdays
-- **(11-17)** = Pay 11 AM – 5 PM on Saturday (parentheses = Saturday)
-
-### What is Taxa 1, 2, or 3?
-
-**Taxa** is the Swedish parking rate tier:
-- **Taxa 1** = Lowest rate (typically residential areas)
-- **Taxa 2** = Medium rate
-- **Taxa 3** = Highest rate (city centers, popular areas)
-
-### What does "Grön zon" or "Blå zon" mean?
-
-These are **zone classifications** used by some cities:
-- **Grön zon (Green Zone)** = Lower-cost parking areas
-- **Blå zon (Blue Zone)** = Medium-cost areas
-- **Zon E** = Specific zone code for parking apps
-
-### How do I pay for parking in Sweden?
-
-Most Swedish parking uses **mobile apps**:
-1. Download: MOBILL, EasyPark, or Parkster
-2. Enter the **zone code** shown on the sign
-3. Set your parking duration
-4. Pay via the app
-
-Some areas also have **parking machines** (coins or card).
-
-### What happens outside the paid hours?
-
-**Parking is typically free** outside the hours shown:
-- Evenings and nights (after the end time)
-- Sundays and public holidays (unless red text shows otherwise)
-- Between paid periods
-
-Always check for additional restriction plates (e.g., street cleaning days).
-
----
-
-## How ParkingSignMaster Helps
-
-Reading Swedish parking signs gets easier with practice — but why risk a ticket?
-
-**ParkingSignMaster** instantly interprets any Swedish parking sign:
-
-1. **Snap a photo** of the sign
-2. **Get a clear answer**: Can you park? When to pay? How long?
-3. **See restrictions** you might have missed
-
-### Why Drivers Use It:
-
-✅ **Instant interpretation** — No more guessing  
-✅ **Avoid tickets** — Catch hidden restrictions  
-✅ **Multi-language** — English, Swedish, and more  
-✅ **Learn as you go** — Understand the rules
-
-📱 **Download free:** [parkingsignmaster.com](https://parkingsignmaster.com)
-
----
-
-## Summary
-
-The **"Avgift" parking sign with time range** is the most common parking sign in Sweden. Remember:
-
-| Rule | Details |
-|------|---------|
-| **Read top to bottom** | Each plate adds a rule |
-| **"Avgift"** | You must pay to park |
-| **Time range** | When payment is required |
-| **Parentheses** | Saturday hours |
-| **"Övrig tid"** | Free outside paid hours |
-
-Got a confusing sign? Let **ParkingSignMaster** decode it for you.
-
-🅿️ Happy parking!
-
----
-
-*This guide covers the most common Swedish parking sign pattern (paid parking with fee and time restrictions). Look for our other guides covering different sign types.*
+*Educational content only. Always follow the exact sign at your location and local municipality rules.*
